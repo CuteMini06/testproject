@@ -1,0 +1,6 @@
+int main(void)
+{int a=8;
+int b=19;
+int c=a-b;
+printf(c);
+return 0;}
